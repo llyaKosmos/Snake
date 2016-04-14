@@ -20,8 +20,7 @@ namespace Snake
             lineh2.Draw();
             linev1.Draw(); 
             linev2.Draw();
-
-
+            
             Point p = new Point(4, 5, '*');
             p.Draw();
 
